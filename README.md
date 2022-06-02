@@ -1,6 +1,7 @@
 # Hi there, I am Riham Zeidan 👋
 
-![024](https://user-images.githubusercontent.com/64324442/171641286-251fbe2c-5b9f-4348-98b2-dec1777d2264.png)
+![024](https://user-images.githubusercontent.com/64324442/171641613-bded7bec-5548-48c0-9391-f039cef9b1a9.png)
+
 ## I am lead at Google Developer Student Clubs, organizer at Google Developer Groups and Google Ambassador at Women TechMakers Lebanon and computer science student at Lebanese University FS1.
 
 - 🔭 I’m currently working on ToDo Android Application 
