@@ -2,7 +2,7 @@
 
 ![024](https://user-images.githubusercontent.com/64324442/171641613-bded7bec-5548-48c0-9391-f039cef9b1a9.png)
 
-## I am lead at Google Developer Student Clubs, organizer at Google Developer Groups and Google Ambassador at Women TechMakers Lebanon and computer science student at Lebanese University FS1.
+## I am mentor at Google Developer Student Clubs, organizer at Google Developer Groups and Google Ambassador at Women TechMakers Lebanon and computer science student at Lebanese University FS1.
 
 - 🔭 I’m currently working on ToDo Android Application 
 - 🌱 I’m currently learning Kotlin and Android Development
