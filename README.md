@@ -5,7 +5,7 @@
 ## I am mentor at Google Developer Student Clubs, organizer at Google Developer Groups and Google Ambassador at Women TechMakers Lebanon and computer science student at Lebanese University FS1.
 
 
-- 🌱 I’m currently learning Flutter Development
+- 🌱 I’m currently learning Backend Web Development
 - 💬 Ask me about Google Developer Communities, Leadership, Team Management, OOP, Java, Kotlin.
 - 📫 How to reach me: catch, and follow me from the footer links below 👇
 - 😄 Pronouns: She/Her
